@@ -58,7 +58,7 @@ total=total_bill(100,3)
 print(f"total bill is equal to {total}")
 
 
-"""
+
 #give an arr [0,7,0,3,6,0,2] push the zeros to last [7,3,6,2,0,0,0]
 a=[0,7,0,3,6,0,2]
 n=len(a)
@@ -99,7 +99,7 @@ for i in range(0,len(a)):
         do.append(a[i])
         print(f"{a[i]} = {co(a[i],a)}")
 
-"""
+
 
 #numbers = [2, 4, 6, 8, 10]
 # Create a new list containing the half of every number.
